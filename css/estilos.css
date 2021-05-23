@@ -45,6 +45,14 @@ body {
     font-size: 20px;
 }
 
+.post figure {
+    width: auto;
+}
+
+.post figure img {
+    width: 75%;
+}
+
 .footer {
     background-color: #777;
     color: white;
